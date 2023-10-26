@@ -841,7 +841,7 @@ body {
     margin-top: 82px;
     margin-bottom: 170px;
   }
-  .catalog_nav {
+  .catalog__nav {
     flex-direction: column;
     gap: 16px;
   }
